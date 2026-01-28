@@ -36,7 +36,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CompactShell.git
+git clone https://github.com/Andrex189234/Compact-Shell.git
 ```
 
 2. Create a folder named "Starting" in your Documents
