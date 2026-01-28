@@ -4,9 +4,6 @@
   <a href="https://github.com/Andrex189234/Compact-Shell/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Andrex189234/Compact-Shell?color=0088ff" />
   </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/Andrex189234/Compact-Shell">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Andrex189234/Compact-Shellbadge" />
-  </a>
 
 # CompactShell
 
