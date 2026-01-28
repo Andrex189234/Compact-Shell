@@ -41,4 +41,5 @@ git clone https://github.com/your-username/CompactShell.git
 
 2. Create a folder named "Starting" in your Documents
 3. (Optional) Add to PATH to run the shell from any terminal:
-
+4. Run shell.bat
+   
