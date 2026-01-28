@@ -42,4 +42,6 @@ git clone https://github.com/Andrex189234/Compact-Shell.git
 2. Create a folder named "Starting" in your Documents and paste all file
 3. (Optional) Add to PATH to run the shell from any terminal:
 4. Run shell.bat
+5. Log with guest (password:guest)
+6. Create a new user in user.cfg (user=password)
    
