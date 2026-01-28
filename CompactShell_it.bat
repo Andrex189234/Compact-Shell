@@ -15,7 +15,7 @@ rem ============================
 rem Sistema di login CompactShell
 rem ============================
 
-set USERS_FILE=C:\Users\%%USERNAME%%\Desktop\Starting\users.cfg
+set USERS_FILE=C:\Users\%USERNAME%\Documents\Starting\users.cfg
 set LOGGED_IN=0
 set ATTEMPTS=0
 set MAX_ATTEMPTS=3
@@ -63,7 +63,7 @@ rem ============================
 rem Caricamento alias da shell.cfg
 rem ============================
 if exist shell.cfg (
-    for /f "usebackq tokens=1,* delims==" %%A in ("shell.cfg") do (
+    for /f "usebackq tokens=1,* delims==" %%A in ("C:\Users\%USERNAME%\Documents\Starting\shell.cfg") do (
         if /i "%%A"=="alias" (
             set %%B
         )

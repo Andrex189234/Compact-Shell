@@ -15,14 +15,14 @@ if /i "%cmd%"=="en" goto ENGLISH
 
 :ITALIAN
 cls
-call "C:\Users\%USERNAME%\Desktop\Starting\CompactShell_it.bat"
+call "C:\Users\andre\Documents\Starting\CompactShell_it.bat"
 goto :eof
 
 :ENGLISH
 cls
-call "C:\Users\%USERNAME%\Desktop\Starting\CompactShell_en.bat"
+call "C:\Users\andre\Documents\Starting\CompactShell_en.bat"
 goto :eof
 
 :NON_START
-explorer C:\Users\%USERNAME%\Desktop\Starting
-echo if you get an error create a directory on the Desktop called "Starting" and move these file
+explorer C:\Users\%USERNAME%\Documents\Starting
+echo if you get an error create a directory on the Documents called "Starting" and move these file
