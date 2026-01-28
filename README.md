@@ -30,3 +30,4 @@
 ```bash
 git clone https://github.com/tuo-username/CompactShell.git
 
+2.
