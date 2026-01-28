@@ -1,11 +1,11 @@
   <a href="https://github.com/Andrex189234/Compact-Shell/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/Andrex189234/Compact-Shell?color=0088ff" />
   </a>
   <a href="https://github.com/Andrex189234/Compact-Shell/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Andrex189234/Compact-Shell?color=0088ff" />
   </a>
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/Andrex189234/Compact-Shell">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Andrex189234/Compact-Shellbadge" />
   </a>
 
 # CompactShell
