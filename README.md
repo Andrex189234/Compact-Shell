@@ -1,33 +1,40 @@
+
+
 # CompactShell
 
-**CompactShell** è una shell avanzata realizzata in **batch Windows**, con funzionalità tipo Linux, gestore di pacchetti, login multi-utente e plugin system.
+**CompactShell** is an advanced shell built in **Windows batch**, featuring Linux-like functionality, a package manager, multi-user login, and a plugin system.
 
 ---
 
-## Funzionalità principali
+## Key Features
 
-- **Login multi-utente** con `users.cfg`  
-- **Prompt dinamico** `[user@pc cwd]$`  
-- **Gestione pacchetti** con Winget:
-  - `pkg install <nome>`  
-  - `pkg uninstall <nome>`  
-  - `pkg search <nome>`  
-  - `pkg upgrade <nome|all>`  
-  - `pkg update all` (alias di upgrade all)  
-- **Exec universale**: esegui file nella directory corrente o specificata  
-- **Alias personalizzati** (`shell.cfg`)  
-- **Storico comandi e autocompletamento**  
-- **Plugin system** (`commands.d`)  
-- **Modalità kiosk / lock shell** opzionale  
-- Comandi di sistema: `reboot`, `shutdown`, `sleep`, `notify`, `logout`, `reopen`
+* **Multi-user login** with `users.cfg`
+* **Dynamic prompt** `[user@pc cwd]$`
+* **Package management** with Winget:
+
+  * `pkg install <name>`
+  * `pkg uninstall <name>`
+  * `pkg search <name>`
+  * `pkg upgrade <name|all>`
+  * `pkg update all` (alias for upgrade all)
+* **Universal exec**: run files in the current or specified directory
+* **Custom aliases** (`shell.cfg`)
+* **Command history and autocompletion**
+* **Plugin system** (`commands.d`)
+* Optional **kiosk / lock shell mode**
+* System commands: `reboot`, `shutdown`, `sleep`, `notify`, `logout`, `reopen`
 
 ---
 
-## Installazione
+## Installation
 
-1. Clona il repository:
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/tuo-username/CompactShell.git
-```bash
-2.
+git clone https://github.com/your-username/CompactShell.git
+```
+
+2. Create a folder named "Starting" in your Documents
+3. (Optional) Add to PATH to run the shell from any terminal:
+
+Add the folder to your system PATH
