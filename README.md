@@ -29,5 +29,5 @@
 
 ```bash
 git clone https://github.com/tuo-username/CompactShell.git
-
+```bash
 2.
