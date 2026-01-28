@@ -1,4 +1,12 @@
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrex189234)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/Andrex189234/Compact-Shell/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/Andrex189234/Compact-Shell/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/Andrex189234/Compact-Shell">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+  </a>
 
 # CompactShell
 
