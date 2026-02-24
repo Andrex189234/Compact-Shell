@@ -33,9 +33,10 @@
 
 ## Installation
 
-1. Download the file "setupgit.exe"
+1. Download the file "setup.exe"
 
 2. Run the file
 
 
 3. Follow the instruction
+
